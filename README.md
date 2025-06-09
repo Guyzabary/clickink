@@ -40,3 +40,6 @@ clickink/
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
+=======
+# clickink
+>>>>>>> a7190a87d479a5a643b22b2f0914b2940c6d89fa
