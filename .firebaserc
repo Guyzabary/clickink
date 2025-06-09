@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "prod": "clickinc-1fb7a",
+    "default": "clickinc-1fb7a"
+  },
+  "targets": {},
+  "etags": {}
+}
